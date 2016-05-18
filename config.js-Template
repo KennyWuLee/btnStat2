@@ -1,6 +1,6 @@
 module.exports = {
   apikey: '',
-  mysqlConfig = {
+  mysqlConfig: {
     host     : 'localhost',
     user     : 'root',
     password : '',
