@@ -1,0 +1,9 @@
+module.exports = {
+  apikey: '',
+  mysqlConfig = {
+    host     : 'localhost',
+    user     : 'root',
+    password : '',
+    database : 'btnstats'
+  }
+}
